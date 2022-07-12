@@ -1,0 +1,53 @@
+:root{
+/*# Front-end Style Guide
+
+## Layout
+
+The designs were created to the following widths:
+*/
+--MobileWidth: 375px;
+--DesktopWidth: 1440px;
+/*
+## Colors
+
+### Primary
+*/
+--Desaturated-Red: hsl(0, 36%, 70%);
+--SoftRed: hsl(0, 93%, 68%);
+/*
+### Neutral
+*/
+--Dark-Grayish-Red: hsl(0, 6%, 24%);
+/*
+### Gradients
+*/
+--GradientsLinearWhite: 135deg, from hsl(0, 0%, 100%), to hsl(0, 100%, 98%);
+--GradientsLinearPeach: 135deg, from hsl(0, 80%, 86%), to hsl(0, 74%, 74%);
+/*
+## Typography
+
+### Body Copy
+*/
+--FontSize: 16px;
+/*
+### Font
+*/
+--FontFamily: 'Josefin Sans', sans-serif;
+--FontWeightRegular: 300;
+--FontWeightMudium: 400;
+--FontWeightLarge: 600;
+}
+
+
+
+
+
+
+
+.attribution {
+    font-size: 11px;
+    text-align: center;
+  }
+  .attribution a {
+    color: hsl(228, 45%, 44%);
+  }
